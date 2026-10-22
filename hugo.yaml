@@ -147,7 +147,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: /2026_Vanessa_Littler_CV.pdf
+      url: "assets/2026_Vanessa_Littler_CV.pdf"
       download: true
       newPage: true
     socialLinks:
