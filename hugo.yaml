@@ -3,6 +3,10 @@ languageCode: "en-gb"
 title: "Vanessa Littler | Portfolio"
 theme: hugo-profile
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 outputs:
   home:
     - "HTML"
